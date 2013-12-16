@@ -20,3 +20,5 @@ tmp
 .account
 .cups
 .ssh/*.pem
+.zsh_history
+.zcompdump
