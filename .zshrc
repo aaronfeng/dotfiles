@@ -9,7 +9,11 @@ export GREP_OPTIONS='--color=auto'
 
 source "`brew --prefix grc`/etc/grc.bashrc"
 
-# move this to a better home
+source "$HOME/.zsh/bundle/zundle/rc"
+Bundle 'matschaffer/zsh-history'
+
+
+# (TODO) move this to a better home
 if [ "$TERM" != dumb ] && [ -n "$GRC" ]
 then
     alias colourify="$GRC -es --colour=auto"
