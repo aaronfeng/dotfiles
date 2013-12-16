@@ -11,6 +11,11 @@ source "`brew --prefix grc`/etc/grc.bashrc"
 
 source "$HOME/.zsh/bundle/zundle/rc"
 Bundle 'matschaffer/zsh-history'
+Bundle 'matschaffer/zsh-theme-gnzh'
+Bundle 'matschaffer/zsh-git'
+Bundle 'aaronfeng/zsh-java-version-gnzh'
+
+LoadBundles
 
 
 # (TODO) move this to a better home
