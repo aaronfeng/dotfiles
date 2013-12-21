@@ -14,13 +14,8 @@ Bundle 'matschaffer/zsh-history'
 Bundle 'matschaffer/zsh-theme-gnzh'
 Bundle 'matschaffer/zsh-git'
 Bundle 'aaronfeng/zsh-java-version-gnzh'
+Bundle 'aaronfeng/zsh-grc'
+Bundle 'aaronfeng/zsh-bundle-ruby'
+Bundle 'aaronfeng/zsh-jobs'
 
 LoadBundles
-
-
-# (TODO) move this to a better home
-if [ "$TERM" != dumb ] && [ -n "$GRC" ]
-then
-    alias colourify="$GRC -es --colour=auto"
-    alias ps='colourify ps'
-fi
