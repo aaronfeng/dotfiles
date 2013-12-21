@@ -22,3 +22,4 @@ tmp
 .ssh/*.pem
 .zsh_history
 .zcompdump
+.NERDTreeBookmarks
