@@ -23,3 +23,6 @@ tmp
 .zsh_history
 .zcompdump
 .NERDTreeBookmarks
+.irb-history
+.lesshst
+.rdebug_hist
