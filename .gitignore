@@ -26,3 +26,6 @@ tmp
 .irb-history
 .lesshst
 .rdebug_hist
+.ssh
+.ec2
+.chef
