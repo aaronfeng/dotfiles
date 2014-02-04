@@ -20,6 +20,8 @@ Bundle 'tpope/vim-rails.git'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'aaronfeng/vim-aaronfeng'
 Bundle 'scrooloose/nerdtree'
+Bundle 'jnwhiteh/vim-golang'
+
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
