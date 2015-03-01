@@ -6,6 +6,7 @@ Library
 Downloads
 Documents
 Desktop
+Applications
 Movies
 code
 tmp
@@ -30,3 +31,20 @@ tmp
 .ec2
 .chef
 .vim
+.vagrant.d
+.oh-my-zsh
+.bzr.log
+.m2
+.fog
+.zsh-update
+.pip
+.python-eggs
+.mitmproxy
+.config
+.boot2docker
+.swt
+.berkshelf
+.cache
+.atom
+.nexus_cli
+VirtualBox\ VMs
